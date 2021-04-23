@@ -1,0 +1,19 @@
+span {
+  margin-left: 10px;
+}
+
+.contactList {
+  padding: 15px;
+}
+
+.deleteButton {
+  border: 2px solid #4caf50;
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: bold;
+  color: rgb(101, 79, 119);
+  transition: 1s;
+  outline: none;
+}
